@@ -7,7 +7,7 @@
 This project visualizes how a student spends time over a week using a **stacked area chart** built with [Matplotlib](https://matplotlib.org/).  
 The chart shows daily time allocation for **studying, playing, watching TV, and sleeping**.
 
---- ggggg
+--- gggg
 
 ## ✨ Key Features
 - 🎨 **Color-coded stacked area chart** for activities.
